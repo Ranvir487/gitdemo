@@ -4,4 +4,6 @@ This is a test file used under Demo
 ============================
 Hello From Master... This Line is added from 'master' Branch so it should be at the top
 ===========================
-.
+=====================
+This change is done from Feature2 branch. We need to merge it.
+====================.
